@@ -1,7 +1,7 @@
 # QuantiumWeek1
 Forage Quantium Data Analytics Virtual Internship https://www.theforage.com/modules/NkaC7knWtjSbi6aYv/4wnnynT6zRMPRjzSF?ref=BcidS438dtwvMS8uZ
 
-![Alt text](<blockquote class="imgur-embed-pub" lang="en" data-id="a/HJfsCXa" data-context="false" ><a href="//imgur.com/a/HJfsCXa"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+![Alt text]https://imgur.com/ntQLHUv
 
 Thanks for visiting my GitHub portfolio. This work was completed as part of the Forage Quantium Virtual Internship. The assignment was to perform a market analysis for a food distributor.  
 
