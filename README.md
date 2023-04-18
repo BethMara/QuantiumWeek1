@@ -1,2 +1,18 @@
 # QuantiumWeek1
-Forage Quantium Data Analytics Virtual Internship 
+Forage Quantium Data Analytics Virtual Internship https://www.theforage.com/modules/NkaC7knWtjSbi6aYv/4wnnynT6zRMPRjzSF?ref=BcidS438dtwvMS8uZ
+
+Thanks for visiting my GitHub portfolio. This work was completed as part of the Forage Quantium Virtual Internship. The assignment was to perform a market analysis for a food distributor.  
+
+ESSENTIAL QUESTIONS FOR SALES IN 2018 AND 2019: 
+
+What are total sales?
+Do sales vary with time?
+Who are the major consumers?
+What are their ages?
+What are spending group are they in?
+What are the most popular stores with the highest spending groups?
+
+How many unique customers made purchases during the period under review? I have counted the number of unique customer loyalty IDs in the sales data to answer this question.
+Which product categories are driving sales growth, and which are declining?
+
+You'll find a PDF of my summary and here is the link to my public Tableau repository where you can play with the data and interact with my dashboards. https://public.tableau.com/views/QuantiumVirtualInternshipWeek1/DashboardA?:language=en-US&:display_count=n&:origin=viz_share_link
